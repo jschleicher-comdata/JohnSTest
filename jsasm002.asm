@@ -2,7 +2,7 @@
 JSASM002 RMODE ANY
 * ********************************************************************
 * * THIS IS A TEST ASSEMBLER SUBROUTINE - PASS A FIELD TO IT AND
-* * IT WILL RETURN A MODIFIED VERSION OF IT.
+* * IT WILL RETURN A MODIFIED VERSION OF IT
 * ********************************************************************
 JSASM002 CSECT
 * ********************************************************************
